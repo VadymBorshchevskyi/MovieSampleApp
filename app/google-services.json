@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "544873469097",
+    "firebase_url": "https://tipl-10722.firebaseio.com",
+    "project_id": "tipl-10722",
+    "storage_bucket": "tipl-10722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544873469097:android:33ae4dd57a8f3e67d185b8",
+        "android_client_info": {
+          "package_name": "com.example.moviesampleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544873469097-h8ck6mt779vv9ngb52nderhkgahil8si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1X4eaYl3tUCtZdibWQi4WItkf5-9f5b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544873469097-h8ck6mt779vv9ngb52nderhkgahil8si.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544873469097-p07mbt07lar56tmm1tjbqsstqgumcqcj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.tipl"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544873469097:android:01f836e3c7e0188dd185b8",
+        "android_client_info": {
+          "package_name": "com.tiplrewards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544873469097-h8ck6mt779vv9ngb52nderhkgahil8si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1X4eaYl3tUCtZdibWQi4WItkf5-9f5b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544873469097-h8ck6mt779vv9ngb52nderhkgahil8si.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "544873469097-p07mbt07lar56tmm1tjbqsstqgumcqcj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.tipl"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
